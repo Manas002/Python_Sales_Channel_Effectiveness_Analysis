@@ -1,2 +1,16 @@
 # Python_Sales_Channel_Effectiveness_Analysis
-dc;sssssssssssssssssssssssssssssssssssssssss
+
+**Data validation:**
+
+Describe validation and cleaning steps for every column in the data
+
+**Exploratory Analysis:**
+
+Include two different graphics showing single variables only to demonstrate the characteristics of data
+Include at least one graphic showing two or more variables to represent the relationship between features
+Describe your findings
+Definition of a metric for the business to monitor
+How should the business use the metric to monitor the business problem
+Can you estimate initial value(s) for the metric based on the current data
+Final summary including recommendations that the business should undertake.
+To get a better understanding of the performance of each sales method I create a metric called Average Reveue per Customer Sales Effort(ARPSE). This metric takes into account the difficulty of each sales method in terms of time spent with email having a value of 0.5, email + call 1 and call 3.
